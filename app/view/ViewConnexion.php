@@ -13,7 +13,7 @@
         <label for="email">Veuillez saisir votre adresse eùail : </label>
         <input type="email" name="email">
         <label for="password">Veuillez saisir votre mot de passe : </label>
-        <input type="password" name="password"
+        <input type="password" name="password">
         <input type="submit" name:"submit" value="connexion">
     </form>
 </body>
